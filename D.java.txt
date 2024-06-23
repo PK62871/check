@@ -1,0 +1,6 @@
+public class D{
+
+public void d1(){
+//logic Here,
+}
+}
